@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-telegram-bot
+sqlalchemy
+psycopg2-binary
+alembic
+openai
+httpx
+python-dotenv
+pydantic
+pydantic-settings
+asyncpg
+apscheduler
+python-multipart
+requests
+pydub
