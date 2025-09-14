@@ -70,7 +70,7 @@ Edit the `.env` file with your configuration:
 ```env
 DATABASE_URL=postgresql://username:password@host:port/dbname
 OPENAI_API_KEY=your_openai_api_key
-TELEGRAM_BOT_TOKEN=8280809938:AAHqSXsk0pP4h0ZFaWuIxLYlbiEzMM0-JFQ
+TELEGRAM_BOT_TOKEN=
 MNOTIFY_API_KEY=your_mnotify_api_key
 YOUR_PHONE_NUMBER=0557782728
 ```
